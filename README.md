@@ -2,10 +2,10 @@
 <a href='http://www.linkedin.com/in/amina-saeed-392155294'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/AminaSaeed31290?t=rECQcpfS2p2wZJtQ7WfFkg&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.facebook.com/share/19YsXM7i5e/'><img align='left' alt="facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height='18px'/></a>
+<br>
+---
 
-
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a passionate Front-End Developer who loves turning ideas into interactive and user-friendly web experiences 🎨💻. I enjoy diving into new technologies, tools, and frameworks — from HTML/CSS to React and beyond — and constantly challenge myself to build sleek, responsive, and accessible interfaces 🌐✨. I believe good UI/UX is just as important as strong code 💡🛠️.
 <br/>
 <br/>
 
