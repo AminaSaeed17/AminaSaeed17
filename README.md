@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Amina Saeed!
 <a href='http://www.linkedin.com/in/amina-saeed-392155294'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://x.com/AminaSaeed31290?t=rECQcpfS2p2wZJtQ7WfFkg&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.facebook.com/share/19YsXM7i5e/'><img align='left' alt="facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height='18px'/></a>
+
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -12,15 +13,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🔭 &nbsp; I'm currently working on **a personal web project using React and TypeScript**
+- 🤝 &nbsp; Looking forward to collaborate on open source projects that make a real-world impact
+- 🌱 &nbsp; Currently learning **Next.js** and diving deeper into **TypeScript**
+- 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/AminaSaeed17)
+- 💬 &nbsp; Ask me anything about front-end development or problem solving — I'm happy to help!
+- 📫 &nbsp; You can reach me via [LinkedIn](http://www.linkedin.com/in/amina-saeed-392155294)
+- 📝 &nbsp; Check out my [CV/Resume](https://docs.google.com/document/d/1Hx4GSTIMTcyGT2TF3f06mXRS5o8hW14twcHes7AkfqQ/edit?usp=drive_link)
+- 📚 &nbsp; I enjoy reading tech blogs and fiction in my free time
 
 ---
 
